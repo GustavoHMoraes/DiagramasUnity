@@ -5,7 +5,7 @@ Atividade feita por: Gabriel Faria e Gustavo Henrique
 
 <img src="img-2.jfif" alt="img" width="600" height="300">
 
-<img src="img-3.jfif" alt="img" width="600" height="500">
+<img src="img-3.jfif" alt="img" width="600" height="550">
 
 # Diagrama de Classe
 
