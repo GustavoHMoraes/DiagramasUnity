@@ -13,5 +13,7 @@ Atividade feita por: Gabriel Faria e Gustavo Henrique
 
 # Descrição
 
-<H2>Diagrama de Caso de Uso e Classe para um jogo feito no Unity. O projeto consiste em duas cenas (fases), onde ao completar uma delas irá ocorrer a transição para a cena seguinte.
-A mecanica de ambas as cenas (fases) são semelhantes para facilitar na gameplay.</H2>  
+Diagrama de Caso de Uso e Classe para um jogo feito no Unity. O projeto consiste em duas cenas (fases), onde ao completar uma delas irá ocorrer a transição para a cena seguinte.
+A mecanica de ambas as cenas (fases) são semelhantes para facilitar na gameplay e ambos os diagramas possuem os elementos que compõem  o jogo.
+  Caso de Uso: Remete a mecânica do jogo ajudando a entender como ele funciona.
+  Classe: Se refere aos elementos da cena e suas caracteristicas.
