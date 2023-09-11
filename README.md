@@ -9,7 +9,7 @@ Atividade feita por: Gabriel Faria e Gustavo Henrique
 
 # Diagrama de Classe
 
-<img src="img-4.jfif" alt="img" width="600" height="300">
+<img src="img-4.jfif" alt="img" width="700" height="350">
 
 # Descrição
 
