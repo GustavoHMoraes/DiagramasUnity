@@ -1,11 +1,11 @@
 # DiagramasUnity
 Atividade feita por: Gabriel Faria e Gustavo Henrique
 # Caso de usos
-<img src="img-1.jfif" alt="img" width="600" height="350">
+<img src="img-1.jfif" alt="img" width="600" height="400">
 
 <img src="img-2.jfif" alt="img" width="600" height="300">
 
-<img src="img-3.jfif" alt="img" width="600" height="350">
+<img src="img-3.jfif" alt="img" width="600" height="450">
 
 # Diagrama de Classe
 
